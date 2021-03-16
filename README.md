@@ -6,6 +6,8 @@ supercomputer and Casper analysis cluster, so all directory names will
 need to be changed accordingly, as well as those directories that point
 to my own local files.
 
+Code Link: https://zenodo.org/badge/latestdoi/307782674
+
 Paper citation: Zanowski, H., A. Jahn, and M.M. Holland, 2021: Arctic Ocean Freshwater
 in CMIP6 Ensembles: Declining Sea Ice, Increasing Ocean Storage and Export. JGR Oceans.
 
