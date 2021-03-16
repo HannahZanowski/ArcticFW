@@ -1,4 +1,4 @@
-# ArcticFW
+# CMIP6_ArcticFW
 Code for computing Arctic freshwater storage and fluxes in 7 CMIP6 models
 for the historical simulation (1950-2015) and SSP1-2.6 and SSP5-8.5 (2015-2100).
 The code is currently set up to work with CMIP6 output on the NCAR Cheyenne
